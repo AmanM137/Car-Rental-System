@@ -10,6 +10,6 @@ Welcome to the Car Rental System! This Java-based console application is designe
 
 ## Getting Started
 Clone the Repository: Start by cloning the repo to your local machine:
-sh
-Copy code
+```
 git clone https://github.com/prabhatthakuryt/Car-Rental-System.git
+```
